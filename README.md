@@ -1,3 +1,3 @@
 # gitkills
 hello, world!
-Creating a new branch is quick and simple.
+Creating b new branch is quick and simple.
